@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## I'm an Engineer and a Researcher
 - 🌱 I’m currently learning anything
-- 🔭 I’m currently working on integrating machine learning applications into pharmacological research
+- 🔭 I’m currently working on integrating software development and machine learning applications into pharmacological research
 - 💬 Ask me about
 	- Biomedical engineering: biomolecular engineering, bioconjugation, mathematical modeling, machine learning, drug delivery
 	- Cancer biology: melanoma brain metastasis, GTP metabolism
