@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ## I'm an Engineer and a Researcher
-- 🌱 I’m currently learning anything
-- 🔭 I’m currently working on integrating software development and machine learning applications into pharmacological research
+- 🔭 I’m currently learning and working on integrating software development and machine learning into pharmacological research and drug development
 - 💬 Ask me about
-	- Biomedical engineering: biomolecular engineering, bioconjugation, mathematical modeling, machine learning, drug delivery
+	- Biomedical engineering: bioconjugation, mathematical modeling, drug delivery
 	- Cancer biology: melanoma brain metastasis, GTP metabolism
-	- Dermatology: wound healing, inflammation, autoimmune, topical treatments of small-molecule drugs and microneedles
-	- Plant Physiology: tomatoes, parasitic plants, host-parasite molecular communications
-- ⚡ Fun fact: I grow and collect peppers worldwide
+	- Dermatology: wound healing, autoimmune diseases, topical treatments through microneedles
+	- Plant Physiology: tomatoes & other nightshades, parasitic plants, host-parasite molecular communications
+- ⚡ Fun fact: I collect peppers around the world and enjoy fin-de-siècle arts, especially literature, painting, and architecture
 
 <img src="https://github.com/junqilu/junqilu/blob/main/short_cover.png" 
      align="center"
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junqilu)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=junqilu&layout=compact)
 
 ---
 
